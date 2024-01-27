@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@bootstrap/*": ["bootstrap/*"],
+      "@redux/*": ["redux/*"],
+      "@views/*": ["views/*"]
+    }
+  },
+  "include": ["src/**/*.js"]
+}
